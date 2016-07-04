@@ -43,9 +43,11 @@ On your docker engine issue the following commands
 
 4)	Open Jenkins project Hackathon-Hook-Oosha, make sure the IP of the git repository (Source Code Management) corresponds to your Docker IP address.
 
-<img>https://github.com/mbettan/devops-oo/blob/master/img/nexus.png</img>
+<img src="https://github.com/mbettan/devops-oo/blob/master/img/nexus.png" />
 
 5)	Make the necessary changes on the IP addresses and project name writen in the execute shell build steps to correspond to your enviroment.
       	  
-<img>https://github.com/mbettan/devops-oo/blob/master/img/ooprint.png</img>
-<img>https://github.com/mbettan/devops-oo/blob/master/img/nexus.png</img>
+<img src="https://github.com/mbettan/devops-oo/blob/master/img/ooprint.png"/>
+
+
+<img src="https://github.com/mbettan/devops-oo/blob/master/img/nexus.png" />
