@@ -32,8 +32,11 @@ On your docker engine issue the following commands
  
  Credentials:
 	Jenkins (ssh): root/HP1nvent
+	
 	GitLab (WebUI): HPDev/HP1nvent
+	
 	Nexus (WebUI): admin/admin123
+	
  
 ## Setting up
 
