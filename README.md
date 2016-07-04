@@ -36,9 +36,16 @@ On your docker engine issue the following commands
 ## Setting up
 
 1)	First you need to create a project on GitLab or, you can use precreated project "MyContent".
+
 2)	Configure Studio to use GitLab.
+
 3)	Issue an SCM Update on OO Studio, (if you are using the MyContent project you should have the StandaloneStackato Project added to your project list).
+
 4)	Open Jenkins project Hackathon-Hook-Oosha, make sure the IP of the git repository (Source Code Management) corresponds to your Docker IP address.
-5)	Make the necessary changes on the IP addresses and project name writen in the execute shell build steps to correspond to your enviroment.      	  
- 
- 
+
+<img>https://github.com/mbettan/devops-oo/blob/master/img/nexus.png</img>
+
+5)	Make the necessary changes on the IP addresses and project name writen in the execute shell build steps to correspond to your enviroment.
+      	  
+<img>https://github.com/mbettan/devops-oo/blob/master/img/ooprint.png</img>
+<img>https://github.com/mbettan/devops-oo/blob/master/img/nexus.png</img>
