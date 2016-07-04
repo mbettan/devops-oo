@@ -31,6 +31,7 @@ On your docker engine issue the following commands
  Nexus UI : http://<DOCKER_ENGINE_IP>:8081
  
  Credentials:
+ 
 	Jenkins (ssh): root/HP1nvent
 	
 	GitLab (WebUI): HPDev/HP1nvent
