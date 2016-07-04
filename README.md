@@ -25,7 +25,9 @@ On your docker engine issue the following commands
  Make sure the containers are deployed by entering the following URL into your preferred browser.
  
  Jenkins UI : http://<DOCKER_ENGINE_IP>:36980 
+ 
  GitLab UI : http://<DOCKER_ENGINE_IP>:33380
+ 
  Nexus UI : http://<DOCKER_ENGINE_IP>:8081
  
  Credentials:
