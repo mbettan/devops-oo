@@ -3,7 +3,7 @@
 DevOps Framework for HPE Operations Orchestration
 
 Watch now this video for an overview : 
-[![montage2](https://cloud.githubusercontent.com/assets/14251830/16399380/1ad5aca8-3cd2-11e6-9b7d-8fbbb9ff70b0.png)](https://youtu.be/bUtaugbrsCA)
+[![montage1](https://cloud.githubusercontent.com/assets/14251830/16616745/884ac288-437f-11e6-99c8-641018e8db56.png)](https://www.youtube.com/watch?v=DLW6PzS7jzw&index=1&list=PLTHT-7anq_BWCvIChJ1G9BFmtZhZ4d3Oz)
 
 With this project, you should easily be able to add some continuous integration to your flow development and deploying process. This project aims to offer a lightweight, extendable and easy to deploy DevOps Framework for HPE Operations Orchestration based on docker containers.
 
